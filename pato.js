@@ -77,7 +77,7 @@ banChats = false
 offline = false
 targetpc = '12244253896'
 owner = '12244253896'
-fake = 'Turbo✪'
+fake = '†༫ᵃᶠᵃღ→ʙᴏᴛ☂️'
 numbernye = '0'
 waktu = '-'
 alasan = '-'
@@ -132,8 +132,8 @@ turbo.on('CB:action,,call', async json => {
 			teks += `Disfruta del grupo 🥳 se sociable y aporta 🤗, Quizás encuentres el amor      🥺 👉🏻👈🏻 💞♥️💞\n`
             teks += `Lee las reglas por favor, para evitar malos entendidos 👻🔪🔪\n`
 			teks += `╔═══•ೋೋ•═══╗\n`
-            teks += `➣ 𝐓𝐔𝐑𝐁𝐎⚡𝐁𝐎𝐓 😎 úsalo en tus grupos👇🏻 https://youtube.com/channel/UCqiXnIA8_K83MqHtnyMzR2A?sub_confirmatión=1\n`
-            teks += `╚═[-𝐓𝐔𝐑𝐁𝐎☬𝐍𝐓𝐑.li ]═╝\n`
+            teks += `➣ †༫ᵃᶠᵃღ→ʙᴏᴛ☂️ ' 👽CREADOR🌱👇🏻 wa.me/+595971235730\n`
+            teks += `╚═[-†༫ᵃᶠᵃღ→ʙᴏᴛ☂️.li ]═╝\n`
 			let buff = await getBuffer(ppimg)
 		    turbo.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
@@ -149,8 +149,8 @@ turbo.on('CB:action,,call', async json => {
 　        teks += ` .　ﾟ • ﾟ   •　。ﾟ    • ඞ   。　ﾟ .\n`
             teks += ` @${num.split('@')[0]} 🐈💨\n`
             teks += `╔═══•ೋೋ•═══╗\n`
-      　  teks += `𝐓𝐔𝐑𝐁𝐎⚡𝐁𝐎𝐓 😎 úsalo en tus grupos👇🏻 https://youtube.com/channel/UCqiXnIA8_K83MqHtnyMzR2A?sub_confirmatión=1\n`
-            teks += `╚═[-𝐓𝐔𝐑𝐁𝐎☬𝐍𝐓𝐑.li ]═╝\n`
+      　  teks += `†༫ᵃᶠᵃღ→ʙᴏᴛ☂️ ' 👽CREADOR🌱👇🏻 wa.me/+595971235730\n`
+            teks += `╚═[-†༫ᵃᶠᵃღ→ʙᴏᴛ☂️.li ]═╝\n`
 			let buff = await getBuffer(ppimg)
 			turbo.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'promote') {
@@ -256,7 +256,7 @@ turbo.on('chat-update', async (mek) => {
 			only: {
 				group: '🌝 𝐄𝐬𝐭𝐞 𝐜𝐨𝐦𝐚𝐧𝐝𝐨 𝐬𝐨𝐥𝐨 𝐩𝐮𝐞𝐝𝐞 𝐬𝐞𝐫 𝐮𝐬𝐚𝐝𝐨 𝐞𝐧 𝐠𝐫𝐮𝐩𝐨𝐬',
 				admin: '🌝 𝐒𝐨𝐥𝐨 𝐩𝐮𝐞𝐝𝐞 𝐬𝐞𝐫 𝐮𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐨 𝐩𝐨𝐫 𝐚𝐝𝐦𝐢𝐧',
-				Badmin: '🌝 𝐄𝐥 𝐛𝐨𝐭 𝐝𝐞𝐛𝐞 𝐝𝐞𝐫 𝐚𝐝𝐦𝐢 𝐩𝐚𝐫𝐚 𝐞𝐬𝐭𝐞 𝐜𝐨𝐦𝐚𝐧𝐝𝐨'
+				Badmin: '🌝 †༫ᵃᶠᵃღ→ʙᴏᴛ☂️ 𝐝𝐞𝐛𝐞 𝐝𝐞𝐫 𝐚𝐝𝐦𝐢 𝐩𝐚𝐫𝐚 𝐞𝐬𝐭𝐞 𝐜𝐨𝐦𝐚𝐧𝐝𝐨'
 			}
 		}
 		const isUrl = (url) => {
@@ -1001,17 +1001,17 @@ switch (command) {
 
 𝐇𝐨𝐥𝐚 ${pushname} 𝐛𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝@ 𝐚𝐥 𝐦𝐞𝐧𝐮
 ╭────•••◈•••───╮
-TURBO⚡BOT 👇🏻: https://youtube.com/channel/UCqiXnIA8_K83MqHtnyMzR2A?sub_confirmatión=1
+†༫ᵃᶠᵃღ→ʙᴏᴛ☂️👇🏻: 👽CREADOR🌱👇🏻 wa.me/+595971235730
 ✦⏝࣪꒷꒦꒦꒷꒦⏝⏝꒦꒷✦
 
-₮ɄɌɃØ 𝐈𝐧𝐟𝐨
+➣†༫ᵃᶠᵃღ→ʙᴏᴛ☂️𝐈𝐧𝐟𝐨
 ✪➣ ${prefix}𝐜𝐚𝐧𝐚𝐥
 ✪➣ ${prefix}𝐜𝐫𝐞𝐚𝐝𝐨𝐫
 ✪➣ ${prefix}𝐫𝐞𝐠𝐥𝐚𝐬
 ✪➣ ${prefix}𝐢𝐧𝐬𝐭𝐚𝐥𝐚𝐫
 ✪➣ ${prefix}𝐛𝐮𝐠
 
-₮ɄɌɃØ 𝐂𝐫𝐞𝐚𝐝𝐨𝐫𝐞𝐬
+➣†༫ᵃᶠᵃღ→ʙᴏᴛ☂️ 𝐂𝐫𝐞𝐚𝐝𝐨𝐫𝐞𝐬
 ✪➣ ${prefix}𝐬𝐭𝐢𝐜𝐤𝐞𝐫
 ✪➣ ${prefix}𝐬𝐰𝐦
 ✪➣ ${prefix}𝐚𝐭𝐭𝐩
@@ -1024,7 +1024,7 @@ TURBO⚡BOT 👇🏻: https://youtube.com/channel/UCqiXnIA8_K83MqHtnyMzR2A?sub_c
 ✪➣ ${prefix}𝐟𝐚𝐬𝐭
 ✪➣ ${prefix}𝐭𝐨𝐦𝐩𝟑
 
-₮ɄɌɃØ 𝐌𝐞𝐧𝐜𝐢𝐨𝐧𝐞𝐬
+➣†༫ᵃᶠᵃღ→ʙᴏᴛ☂️ 𝐌𝐞𝐧𝐜𝐢𝐨𝐧𝐞𝐬
 ✪➣ ${prefix}𝐡𝐢𝐝𝐞𝐭𝐚𝐠
 ✪➣ ${prefix}𝐬𝐭𝐢𝐜𝐤𝐭𝐚𝐠
 ✪➣ ${prefix}𝐠𝐢𝐟𝐭𝐚𝐠
@@ -1034,14 +1034,14 @@ TURBO⚡BOT 👇🏻: https://youtube.com/channel/UCqiXnIA8_K83MqHtnyMzR2A?sub_c
 ✪➣ ${prefix}𝐢𝐧𝐟𝐨𝐚𝐥𝐥
 ✪➣ ${prefix}𝐭𝐚𝐠𝐚𝐥𝐥
 
-₮ɄɌɃØ 𝐃𝐞𝐬𝐜𝐚𝐫𝐠𝐚𝐬
+➣†༫ᵃᶠᵃღ→ʙᴏᴛ☂️ 𝐃𝐞𝐬𝐜𝐚𝐫𝐠𝐚𝐬
 ✪➣ ${prefix}𝐩𝐥𝐚𝐲
 ✪➣ ${prefix}𝐲𝐭𝐦𝐩𝟑
 ✪➣ ${prefix}𝐲𝐭𝐦𝐩𝟒
 ✪➣ ${prefix}𝐭𝐰𝐢𝐭𝐭𝐞𝐫
 ✪➣ ${prefix}𝐟𝐛
 
-₮ɄɌɃØ 𝐁𝐮𝐬𝐪𝐮𝐞𝐝𝐚𝐬
+➣†༫ᵃᶠᵃღ→ʙᴏᴛ☂️ 𝐁𝐮𝐬𝐪𝐮𝐞𝐝𝐚𝐬
 ✪➣ ${prefix}𝐢𝐠𝐬𝐭𝐚𝐥𝐤
 ✪➣ ${prefix}𝐭𝐢𝐤𝐭𝐨𝐤𝐬𝐭𝐚𝐥𝐤
 ✪➣ ${prefix}𝐯𝐢𝐝𝐞𝐨
@@ -1050,7 +1050,7 @@ TURBO⚡BOT 👇🏻: https://youtube.com/channel/UCqiXnIA8_K83MqHtnyMzR2A?sub_c
 ✪➣ ${prefix}𝐛𝐫𝐚𝐢𝐧𝐥𝐲
 ✪➣ ${prefix}𝐭𝐰𝐢𝐜𝐡
 
-₮ɄɌɃØ 𝐈𝐦𝐚𝐠𝐞𝐧𝐞𝐬
+➣†༫ᵃᶠᵃღ→ʙᴏᴛ☂️ 𝐈𝐦𝐚𝐠𝐞𝐧𝐞𝐬
 ✪➣ ${prefix}𝐚𝐯𝐚𝐭𝐚𝐫
 ✪➣ ${prefix} 𝐥𝐨𝐥𝐢
 ✪➣ ${prefix}𝐰𝐚𝐢𝐟𝐮
@@ -1063,7 +1063,7 @@ TURBO⚡BOT 👇🏻: https://youtube.com/channel/UCqiXnIA8_K83MqHtnyMzR2A?sub_c
 ✪➣ ${prefix}𝐡𝐨𝐦𝐛𝐫𝐞
 ✪➣ ${prefix}𝐜𝐲𝐛𝐞𝐫𝐩𝐮𝐧𝐤
 
-₮ɄɌɃØ 𝐆𝐫𝐮𝐩𝐨𝐬
+➣†༫ᵃᶠᵃღ→ʙᴏᴛ☂️ 𝐆𝐫𝐮𝐩𝐨𝐬
 ✪➣ ${prefix}𝐥𝐞𝐯𝐞𝐥
 ✪➣ ${prefix}𝐩𝐫𝐨𝐦𝐨𝐭𝐞 @
 ✪➣ ${prefix}𝐝𝐞𝐦𝐨𝐭𝐞 @
@@ -1083,7 +1083,7 @@ TURBO⚡BOT 👇🏻: https://youtube.com/channel/UCqiXnIA8_K83MqHtnyMzR2A?sub_c
 ✪➣ ${prefix}𝐫𝐚𝐧𝐤𝐥𝐢𝐧𝐝𝐨
 ✪➣ ${prefix}𝐚𝐟𝐤
 
-₮ɄɌɃØ 𝐎𝐭𝐫𝐨𝐬
+➣†༫ᵃᶠᵃღ→ʙᴏᴛ☂️ 𝐎𝐭𝐫𝐨𝐬
 ✪➣ ${prefix}𝐜𝐨𝐯𝐢𝐝𝐰𝐨𝐫𝐥𝐝
 ✪➣ ${prefix}𝐜𝐧𝐧
 ✪➣ ${prefix}𝐫𝐞𝐯𝐢𝐩 [ 8.8.8.8 ]
@@ -1098,7 +1098,7 @@ TURBO⚡BOT 👇🏻: https://youtube.com/channel/UCqiXnIA8_K83MqHtnyMzR2A?sub_c
 ✪➣ ${prefix}𝐜𝐚𝐬𝐬𝐢𝐧𝐨
 ✪➣ ${prefix}𝐟𝐚𝐤𝐞
 
-₮ɄɌɃØ 𝐒𝐨𝐥𝐨 𝐜𝐫𝐞𝐚𝐝𝐨𝐫
+➣†༫ᵃᶠᵃღ→ʙᴏᴛ☂️ 𝐒𝐨𝐥𝐨 𝐜𝐫𝐞𝐚𝐝𝐨𝐫
 ✪➣ ${prefix}𝐬𝐞𝐥𝐟
 ✪➣ ${prefix}𝐩𝐮𝐛𝐥𝐢𝐜
 ✪➣ ${prefix}𝐝𝐞𝐥𝐞𝐭𝐞
@@ -1127,7 +1127,7 @@ TURBO⚡BOT 👇🏻: https://youtube.com/channel/UCqiXnIA8_K83MqHtnyMzR2A?sub_c
 ✪➣ ${prefix}𝐜𝐡𝐚𝐭
 ✪➣ ${prefix}𝐚𝐩𝐚𝐠𝐚𝐫
  
-₮ɄɌɃØ 𝐈𝐧𝐟𝐨 𝐝𝐞𝐥 𝐛𝐨𝐭
+➣†༫ᵃᶠᵃღ→ʙᴏᴛ☂️ 𝐈𝐧𝐟𝐨 𝐝𝐞𝐥 𝐛𝐨𝐭
 ✪➣ 𝐇𝐢𝐭𝐬 𝐝𝐞 𝐡𝐨𝐲 : ${hit_today.length}*
 ✪➣ 𝐂𝐞𝐥𝐮𝐥𝐚𝐫 : ${device_manufacturer}
 ✪➣ 𝐌𝐨𝐝𝐞𝐥𝐨 : ${device_model}
@@ -1142,9 +1142,9 @@ TURBO⚡BOT 👇🏻: https://youtube.com/channel/UCqiXnIA8_K83MqHtnyMzR2A?sub_c
 ✪➣ 𝐏𝐫𝐞𝐟𝐢𝐱 : 「 ${prefix} 」
 ╔══••ೋೋ••══╗
    ☬✪𝐂𝐫𝐞𝐚𝐝𝐨𝐫𝐞𝐬✪☬
-☞-𝐓𝐔𝐑𝐁𝐎☬𝐍𝐓𝐑➣✪.li
-☞-𝐏𝐀𝐓𝐎ꪶ⸸ꫂ⁩𝐋𝐆𝐒➣✪.li
-╚═[𝐓𝐔𝐑𝐁𝐎☬𝐍𝐓𝐑]═╝
+☞-†༫ᵃᶠᵃღ→ʙᴏᴛ☂️.li
+☞-➣ 🇵🇾ᴍᴏʀɪɴɪɢᴏ☂️.li
+╚═[wa.me/+595971235730]═╝
 `
         	faketokoforwaded(menu)
            	break
@@ -1442,7 +1442,7 @@ if(!isUrl(args[0]) && !args[0].includes('mediafire')) return reply('Link invalid
 reply('*Espera un momento...*')
 teks = args.join(' ')
 const resm = await turbomfire(teks)
-result = `  「  𝐁𝐘 𝐓𝐔𝐑𝐁𝐎  」
+result = `  「  𝐁𝐘 †༫ᵃᶠᵃღ→ʙᴏᴛ☂️  」
 *Nombre :* ${resm[0].nombre}
 *Tamaño :* ${resm[0].size}
 *Link :* ${resm[0].link}
@@ -1781,7 +1781,7 @@ case prefix+ 'getbio':
 		    pic = 'https://i.ibb.co/Tq7d7TZ/age-hananta-495-photo.png'
 		}
 		thumb = await getBuffer(pic)
-		turbo.sendMessage(from, thumb, MessageType.image, {caption: '✪ 𝐁𝐘 𝐓𝐔𝐑𝐁𝐎 ✪'})
+		turbo.sendMessage(from, thumb, MessageType.image, {caption: ' 𝐁𝐘 †༫ᵃᶠᵃღ→ʙᴏᴛ☂️'})
 	        }
 		break
 case prefix+ 'setbio':
@@ -1923,7 +1923,7 @@ case prefix+ 'ocr':
                 break
 case prefix+  'stats':
                 texxt = await msg.stats(totalChat)
-                await wa.sendFakeStatus(from, texxt, "✪ 𝐁𝐘 𝐓𝐔𝐑𝐁𝐎 ✪")
+                await wa.sendFakeStatus(from, texxt, " 𝐁𝐘 †༫ᵃᶠᵃღ→ʙᴏᴛ☂️")
                 break
 case prefix+ 'block':
                 if (!isOwner && !itsMe) return await reply('Esté comando solo puede ser usado por mi')
@@ -2031,7 +2031,7 @@ n = JSON.parse(JSON.stringify(data));
 nimek = n[Math.floor(Math.random() * n.length)];
 pok = await getBuffer(nimek)
 turbo.sendMessage(from, pok, image, {
-quoted: mek, caption: `✪ 𝐁𝐘 𝐓𝐔𝐑𝐁𝐎 ✪`
+quoted: mek, caption: ` 𝐁𝐘 †༫ᵃᶠᵃღ→ʙᴏᴛ☂️`
 })
 } catch {
 reply(ptbr.erro())
@@ -2526,7 +2526,7 @@ case prefix+ 'attp':
 			fs.unlinkSync(media)
 			if (err) return reply('No se pudo convertir, asegúrate de que no sea un sticker con movimiento')
 			buffer = fs.readFileSync(ran)
-			fakethumb(buffer,'✪ 𝐁𝐘 𝐓𝐔𝐑𝐁𝐎 ✪')
+			fakethumb(buffer,' 𝐁𝐘 †༫ᵃᶠᵃღ→ʙᴏᴛ☂️')
 			fs.unlinkSync(ran)
 			})
 			break
@@ -2536,7 +2536,7 @@ case prefix+ 'attp':
             ger = isQuotedSticker ? JSON.parse(JSON.stringify(mek).replace('quotedM', 'm')).message.extendedTextMessage.contextInfo : mek
             owgi = await turbo.downloadAndSaveMediaMessage(ger)
             webp2mp4File(owgi).then(res=>{
-            sendMediaURL(from,res.result,'✪ 𝐁𝐘 𝐓𝐔𝐑𝐁𝐎 ✪')
+            sendMediaURL(from,res.result,' 𝐁𝐘 †༫ᵃᶠᵃღ→ʙᴏᴛ☂️')
             })
             }else {
             reply('responde a un sticker')
@@ -2550,11 +2550,11 @@ case prefix+ 'attp':
 ✪➣ Bloqueo automático de llamada
 ✪➣ El bot no está activo 24/07..
 ✪➣ No coloques comandos que no sepas para que son.
-✪➣Si te interesa el bot, descargalo del canal de TURBO NTR
+✪➣Si te interesa el bot, contactanos wa.me/+595971235730 
 *Consecuencias por violar las reglas*
 Los bots te bloquearán o dejarán los grupos que administras.
 ━━━━[ *IMPORTANTE!* ]━━━
-*✪➣ ¡Nunca le pedimos que done dinero!*
+*✪➣ ¡No abuses del bot *
 *✪➣ No almacenamos imágenes, videos, audio y documentos que envía*
 *✪➣ Nunca le pediremos que proporcione información personal*
 *✪➣ Si encuentra un error / error, infórmelo inmediatamente al bot propietario*
@@ -2567,11 +2567,11 @@ break
 case prefix+ 'comandos':
  case prefix+ 'instalar':
         her = `*INSTALACIÓN*
-  Tutorial de instalación en el canal 
-  TURBO NTR
+  Tutorial de instalación 
+  †༫ᵃᶠᵃღ→ʙᴏᴛ☂️
   Depende de tu apoyo para que este bot siga funcionando
 
-  https://youtube.com/channel/UCqiXnIA8_K83MqHtnyMzR2A?sub_confirmatión=1
+  wa.me/+595971235730 
 
 💞💞💞💞💞💞💞
 `
@@ -2798,7 +2798,7 @@ case prefix+ 'mujer':
 	nimek = n[Math.floor(Math.random() * n.length)];
 	pok = await getBuffer(nimek)
 	turbo.sendMessage(from, pok, image, {
-  quoted: mek, caption: `✪ 𝐁𝐘 𝐓𝐔𝐑𝐁𝐎 ✪`
+  quoted: mek, caption: ` 𝐁𝐘 †༫ᵃᶠᵃღ→ʙᴏᴛ☂️`
 	})
 	
 	} catch {
@@ -2873,7 +2873,7 @@ case prefix+ 'rate':
 	nimek = n[Math.floor(Math.random() * n.length)];
 	pok = await getBuffer(nimek)
 	turbo.sendMessage(from, pok, image, {
-  quoted: mek, caption: `✪ 𝐁𝐘 𝐓𝐔𝐑𝐁𝐎 ✪`
+  quoted: mek, caption: ` 𝐁𝐘 †༫ᵃᶠᵃღ→ʙᴏᴛ☂️`
 	})
 	
 	} catch {
